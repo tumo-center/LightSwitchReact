@@ -1,0 +1,13 @@
+#switches
+{
+  display: flex;
+  justify-content: space-between;
+  width: 600px;
+  height: 320px;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+  bottom: 0px;
+  position: absolute;
+  margin: auto;
+}
